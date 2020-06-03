@@ -1,19 +1,21 @@
+package lambdasAndHigherOrderFunctions
 
+import sun.rmi.runtime.Log
 
 fun main() {
 
     //have the ability to close over the variables and constants defined in their own scope
-    //will access counter in the main scope
+    //will access counter in the lambdasAndHigherOrderFunctions.main scope
 
     var counter = 0
 
-    val increamentCounter = { counter += 1}
+    val incrementCounter = { counter += 1}
 
-    increamentCounter()
-    increamentCounter()
-    increamentCounter()
-    increamentCounter()
-    increamentCounter()
+    incrementCounter()
+    incrementCounter()
+    incrementCounter()
+    incrementCounter()
+    incrementCounter()
 
     println(counter)
 
@@ -32,10 +34,11 @@ fun main() {
     val lambdaCounter2 = countingLambda()
 
     println(lambdaCounter1())
-    println(lambdaCounter1())
+    println(lambdaCounter1()) //prints different values
 
     println(lambdaCounter2())
     println(lambdaCounter2())
     println(lambdaCounter2())
+
 
 }

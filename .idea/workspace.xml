@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="440b50c6-052f-4639-994c-30e1945ef711" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas&amp;HigherOrderFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/forEach&amp;mapLambdas.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionReview&amp;Lambdas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/functionReview&amp;Lambdas.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas&amp;HigherOrderFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdas&amp;HigherOrderFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdasRecap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdasRecap.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,22 +15,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/functionReview&amp;Lambdas.kt">
+        <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/functionReview&amp;Lambdas.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
+            <state relative-caret-position="795">
               <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lambdasRecap.kt">
+        <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdasRecap.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
@@ -35,11 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lambdas&amp;HigherOrderFunction.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdas&amp;HigherOrderFunction.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+            <state relative-caret-position="422">
+              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/forEach&amp;mapLambdas.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -62,6 +79,8 @@
         <option value="$PROJECT_DIR$/src/functionReview&amp;Lambdas.kt" />
         <option value="$PROJECT_DIR$/src/lambdasRecap.kt" />
         <option value="$PROJECT_DIR$/src/lambdas&amp;HigherOrderFunction.kt" />
+        <option value="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdas&amp;HigherOrderFunction.kt" />
+        <option value="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/forEach&amp;mapLambdas.kt" />
       </list>
     </option>
   </component>
@@ -90,6 +109,12 @@
               <item name="KotlinFunctions&amp;CustomTypes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KotlinFunctions&amp;CustomTypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinFunctions&amp;CustomTypes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdasAndHigherOrderFunctions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -101,13 +126,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/KotlinFunctions&amp;CustomTypes.iml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HNGi7_Titans_Task2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Kotlin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,28 +151,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Lambdas_HigherOrderFunctionKt">
-    <configuration name="FunctionReview_LambdasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.lambdasAndHigherOrderFunctions.ForEach_mapLambdasKt">
+    <configuration name="lambdasAndHigherOrderFunctions.ForEach_mapLambdasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FunctionReview_LambdasKt" />
+      <option name="MAIN_CLASS_NAME" value="lambdasAndHigherOrderFunctions.ForEach_mapLambdasKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambdas_HigherOrderFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="lambdasAndHigherOrderFunctions.FunctionReview_LambdasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Lambdas_HigherOrderFunctionKt" />
+      <option name="MAIN_CLASS_NAME" value="lambdasAndHigherOrderFunctions.FunctionReview_LambdasKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lambdasAndHigherOrderFunctions.Lambdas_HigherOrderFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFunctions&amp;CustomTypes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lambdasAndHigherOrderFunctions.Lambdas_HigherOrderFunctionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,8 +193,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Lambdas_HigherOrderFunctionKt" />
-        <item itemvalue="Kotlin.FunctionReview_LambdasKt" />
+        <item itemvalue="Kotlin.lambdasAndHigherOrderFunctions.ForEach_mapLambdasKt" />
+        <item itemvalue="Kotlin.lambdasAndHigherOrderFunctions.Lambdas_HigherOrderFunctionKt" />
+        <item itemvalue="Kotlin.lambdasAndHigherOrderFunctions.FunctionReview_LambdasKt" />
       </list>
     </recent_temporary>
   </component>
@@ -167,37 +211,50 @@
       <updated>1591062239459</updated>
       <workItem from="1591062263744" duration="1304000" />
       <workItem from="1591063599843" duration="294000" />
-      <workItem from="1591139003415" duration="4729000" />
+      <workItem from="1591139003415" duration="6462000" />
+      <workItem from="1591183395480" duration="690000" />
+      <workItem from="1591196878018" duration="54000" />
+      <workItem from="1591212736096" duration="5805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6327000" />
+    <option name="totallyTimeSpent" value="14609000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="-4" width="1327" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15300547" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16003123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32884902" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884902" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32884902" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32884902" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32884902" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32884902" />
+      <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -213,24 +270,31 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/functionReview&amp;Lambdas.kt">
+    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/functionReview&amp;Lambdas.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
+        <state relative-caret-position="795">
           <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdasRecap.kt">
+    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdasRecap.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdas&amp;HigherOrderFunction.kt">
+    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdas&amp;HigherOrderFunction.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        <state relative-caret-position="422">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/forEach&amp;mapLambdas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
         </state>
       </provider>
     </entry>
