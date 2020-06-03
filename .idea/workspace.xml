@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="440b50c6-052f-4639-994c-30e1945ef711" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/challengeOnforEach&amp;map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/moreLambdas.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinFunctions&amp;CustomTypes/META-INF/KotlinFunctions&amp;CustomTypes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinFunctions&amp;CustomTypes/META-INF/KotlinFunctions&amp;CustomTypes.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,17 +26,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/forEach&amp;mapLambdas.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="-68">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/challengeOnforEach&amp;map.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/challengeOnforEach&amp;map.kt">
+        <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/moreLambdas.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="202">
+              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -61,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdas&amp;HigherOrderFunction.kt" />
         <option value="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/forEach&amp;mapLambdas.kt" />
         <option value="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/challengeOnforEach&amp;map.kt" />
+        <option value="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/moreLambdas.kt" />
       </list>
     </option>
   </component>
@@ -131,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.lambdasAndHigherOrderFunctions.ChallengeOnforEach_mapKt">
+  <component name="RunManager" selected="Kotlin.lambdasAndHigherOrderFunctions.MoreLambdasKt">
     <configuration name="lambdasAndHigherOrderFunctions.ChallengeOnforEach_mapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
@@ -184,8 +195,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lambdasAndHigherOrderFunctions.MoreLambdasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFunctions&amp;CustomTypes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lambdasAndHigherOrderFunctions.MoreLambdasKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.lambdasAndHigherOrderFunctions.MoreLambdasKt" />
         <item itemvalue="Kotlin.lambdasAndHigherOrderFunctions.ChallengeOnforEach_mapKt" />
         <item itemvalue="Kotlin.lambdasAndHigherOrderFunctions.ForEach_mapLambdasKt" />
         <item itemvalue="Kotlin.lambdasAndHigherOrderFunctions.Lambdas_HigherOrderFunctionKt" />
@@ -209,12 +234,12 @@
       <workItem from="1591183395480" duration="690000" />
       <workItem from="1591196878018" duration="54000" />
       <workItem from="1591212736096" duration="5805000" />
-      <workItem from="1591220900512" duration="1792000" />
+      <workItem from="1591220900512" duration="4249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16401000" />
+    <option name="totallyTimeSpent" value="18858000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -286,17 +311,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/forEach&amp;mapLambdas.kt">
+    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/challengeOnforEach&amp;map.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/challengeOnforEach&amp;map.kt">
+    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/forEach&amp;mapLambdas.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="-68">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/moreLambdas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="14" />
         </state>
       </provider>
     </entry>
