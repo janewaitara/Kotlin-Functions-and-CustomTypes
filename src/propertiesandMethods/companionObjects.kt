@@ -23,7 +23,7 @@ class TvMath{
             val result = sqrt(width.pow(2) + height*height)
             return result.roundToInt()
         }
-        fun getWiidthandHeight(diagonal: Int, ratioWidth: Double,ratioHeight: Double): Pair<Double,Double>{
+        fun getWidthAndHeight(diagonal: Int, ratioWidth: Double, ratioHeight: Double): Pair<Double,Double>{
             val ratioDiagonal = sqrt(ratioWidth.pow(2) + ratioHeight.pow(2))
 
             val height = diagonal.toDouble() * ratioHeight/ratioDiagonal
@@ -40,13 +40,11 @@ class Tv2(var width: Double, var height: Double){
         }
 
         set(value){
-            val size = TvMath.getWiidthandHeight(value, 16.0, 9.0)
+            val size = TvMath.getWidthAndHeight(value, 16.0, 9.0)
             height = size.second
             width = size.first
         }
 }
-
-
 
 fun main() {
 
