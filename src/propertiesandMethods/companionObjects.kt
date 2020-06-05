@@ -51,8 +51,8 @@ fun main() {
 
     val level1 = Level(1,"Outside Cat",true)
     val level2 = Level(2,"Laser Pointer",false)
-    val level3 = Level(3,"Mysterious Sound",true)
-    val level4 = Level(4,"Vacuum Cleaner",true)
+    val level3 = Level(3,"Mysterious Sound",false)
+    val level4 = Level(4,"Vacuum Cleaner",false)
 
     println("Highest Level is ${Level.highestLevel} ")
 
