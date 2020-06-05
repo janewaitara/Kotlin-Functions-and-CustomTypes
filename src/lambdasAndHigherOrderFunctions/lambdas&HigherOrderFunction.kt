@@ -5,7 +5,7 @@ import sun.rmi.runtime.Log
 fun main() {
 
     //have the ability to close over the variables and constants defined in their own scope
-    //will access counter in the lambdasAndHigherOrderFunctions.main scope
+    //will access counter in the lambdasAndHigherOrderFunctions.propertiesandMethods.main scope
 
     var counter = 0
 
