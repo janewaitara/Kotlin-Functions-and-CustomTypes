@@ -19,6 +19,7 @@ class Level(val id: Int,val boss: String, val unlocked: Boolean ){
 }
 class TvMath{
     companion object{
+        //companion methods
         fun getDiagonal(width: Double,height: Double): Int{
             val result = sqrt(width.pow(2) + height*height)
             return result.roundToInt()

@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="440b50c6-052f-4639-994c-30e1945ef711" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/propertiesandMethods/challengeOnDelegatedProperties.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/propertiesandMethods/methods.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/delegatedProperties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/propertiesandMethods/delegatedProperties.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdas&amp;HigherOrderFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdas&amp;HigherOrderFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/propertiesandMethods/companionObjects.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/propertiesandMethods/companionObjects.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,20 +26,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/delegatedProperties.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="79" column="26" lean-forward="true" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+            <state relative-caret-position="1170">
+              <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/challengeOnDelegatedProperties.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/companionObjects.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-293">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
               <folding>
-                <element signature="e#1#59#0" expanded="true" />
+                <element signature="e#30#106#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/challengeOnDelegatedProperties.kt">
+        <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/methods.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-323">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state relative-caret-position="206">
+              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -68,10 +85,11 @@
         <option value="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/moreLambdas.kt" />
         <option value="$PROJECT_DIR$/src/propertiesandMethods/customAccessors.kt" />
         <option value="$PROJECT_DIR$/src/propertiesandMethods/challengeOnCustomAccessorsandCompanionObj.kt" />
-        <option value="$PROJECT_DIR$/src/propertiesandMethods/companionObjects.kt" />
         <option value="$PROJECT_DIR$/src/delegatedProperties.kt" />
         <option value="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdas&amp;HigherOrderFunction.kt" />
         <option value="$PROJECT_DIR$/src/propertiesandMethods/challengeOnDelegatedProperties.kt" />
+        <option value="$PROJECT_DIR$/src/propertiesandMethods/companionObjects.kt" />
+        <option value="$PROJECT_DIR$/src/propertiesandMethods/methods.kt" />
       </list>
     </option>
   </component>
@@ -87,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,6 +134,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,8 +173,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.propertiesandMethods.ChallengeOnDelegatedPropertiesKt">
-    <configuration name="propertiesandMethods.ChallengeOnCustomAccessorsandCompanionObjKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.MethodsKt">
+    <configuration name="MethodsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFunctions&amp;CustomTypes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="propertiesandMethods.MethodsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="propertiesandMethods.ChallengeOnCustomAccessorsandCompanionObjKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -169,7 +200,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="propertiesandMethods.ChallengeOnDelegatedPropertiesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="propertiesandMethods.ChallengeOnDelegatedPropertiesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -182,7 +213,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="propertiesandMethods.CompanionObjectsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="propertiesandMethods.CompanionObjectsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -195,20 +226,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="propertiesandMethods.CustomAccessorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinFunctions&amp;CustomTypes" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="propertiesandMethods.CustomAccessorsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="propertiesandMethods.DelegatedPropertiesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="propertiesandMethods.DelegatedPropertiesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -223,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MethodsKt" />
         <item itemvalue="Kotlin.propertiesandMethods.ChallengeOnDelegatedPropertiesKt" />
         <item itemvalue="Kotlin.propertiesandMethods.DelegatedPropertiesKt" />
         <item itemvalue="Kotlin.propertiesandMethods.ChallengeOnCustomAccessorsandCompanionObjKt" />
         <item itemvalue="Kotlin.propertiesandMethods.CompanionObjectsKt" />
-        <item itemvalue="Kotlin.propertiesandMethods.CustomAccessorsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -250,12 +268,13 @@
       <workItem from="1591220900512" duration="6470000" />
       <workItem from="1591237559413" duration="1973000" />
       <workItem from="1591269680733" duration="153000" />
-      <workItem from="1591300281406" duration="11698000" />
+      <workItem from="1591300281406" duration="12512000" />
+      <workItem from="1591319629130" duration="4325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34903000" />
+    <option name="totallyTimeSpent" value="40042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,7 +289,7 @@
     <frame x="41" y="25" width="1325" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21266614" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2157936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -279,7 +298,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.7019544" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3355049" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3355049" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -327,13 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/challengeOnforEach&amp;map.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/customAccessors.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -355,16 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/companionObjects.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="54" column="47" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
-          <folding>
-            <element signature="e#30#106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/lambdas&amp;HigherOrderFunction.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -372,20 +374,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/delegatedProperties.kt">
+    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/challengeOnDelegatedProperties.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="79" column="26" lean-forward="true" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        <state relative-caret-position="1065">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/companionObjects.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding>
-            <element signature="e#1#59#0" expanded="true" />
+            <element signature="e#30#106#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/challengeOnDelegatedProperties.kt">
+    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/delegatedProperties.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state relative-caret-position="1170">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/challengeOnforEach&amp;map.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/methods.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
         </state>
       </provider>
     </entry>
