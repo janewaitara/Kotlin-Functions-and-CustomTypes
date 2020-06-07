@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="440b50c6-052f-4639-994c-30e1945ef711" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/polymorphism.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassInheritanceandInterfaces/classInheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,22 +23,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/challengeOnMethodsandExtensions.kt">
+        <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
-              <folding>
-                <element signature="e#30#75#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="142">
+              <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="55" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt">
+        <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/polymorphism.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+            <state relative-caret-position="442">
+              <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+              <folding>
+                <element signature="e#40#228#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/propertiesandMethods/challengeOnMethodsandExtensions.kt" />
         <option value="$PROJECT_DIR$/src/ClassInheritanceandInterfaces/classInheritance.kt" />
         <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt" />
+        <option value="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/polymorphism.kt" />
       </list>
     </option>
   </component>
@@ -197,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ClassInheritanceandOverridingKt">
+  <component name="RunManager" selected="Kotlin.PolymorphismKt">
     <configuration name="ChallengeOnMethodsandExtensionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
@@ -250,14 +251,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="propertiesandMethods.ChallengeOnDelegatedPropertiesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="PolymorphismKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="propertiesandMethods.ChallengeOnDelegatedPropertiesKt" />
+      <option name="MAIN_CLASS_NAME" value="lambdasAndHigherOrderFunctions.PolymorphismKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -265,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PolymorphismKt" />
         <item itemvalue="Kotlin.ClassInheritanceandOverridingKt" />
         <item itemvalue="Kotlin.ChallengeOnMethodsandExtensionsKt" />
         <item itemvalue="Kotlin.ExtensionPropertiesandMethodsKt" />
         <item itemvalue="Kotlin.MethodsKt" />
-        <item itemvalue="Kotlin.propertiesandMethods.ChallengeOnDelegatedPropertiesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -296,12 +297,12 @@
       <workItem from="1591319629130" duration="9926000" />
       <workItem from="1591368979531" duration="4430000" />
       <workItem from="1591382995588" duration="3167000" />
-      <workItem from="1591529860798" duration="3761000" />
+      <workItem from="1591529860798" duration="5092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57001000" />
+    <option name="totallyTimeSpent" value="58332000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -316,7 +317,7 @@
     <frame x="41" y="25" width="1325" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22673965" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22673965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -325,7 +326,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.7019544" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3355049" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3990228" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -462,8 +463,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+        <state relative-caret-position="142">
+          <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="55" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/polymorphism.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+          <folding>
+            <element signature="e#40#228#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
