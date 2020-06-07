@@ -10,6 +10,18 @@ package classInheritanceandInterfaces
  * For methods to be overridden, they need to be open
  * */
 
+/**
+ *  When to subclass
+ *    - Single Responsibility - a single class to have a single concern
+ *    - Type safety - subclassing gives a separate type to a subclass and that gives some benefits in form of type safety
+ *    - Shared Base Classes
+ *    - Extensibility - extending a code you dont own
+ *    - Identity - What objects are - prefer a class or inheritance
+ *                 What objects can do(behaviour) - prefer Interfaces & Composition
+ *
+ *
+ */
+
 data class Grade(val courseName: String, val letter: Char, val credits: Double)
 
 //open says you can inherit from me
