@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="440b50c6-052f-4639-994c-30e1945ef711" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classInheritanceandInterfaces/constructorsandInit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeClass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinFunctions&amp;CustomTypes/META-INF/KotlinFunctions&amp;CustomTypes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinFunctions&amp;CustomTypes/META-INF/KotlinFunctions&amp;CustomTypes.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinFunctions&amp;CustomTypes/lambdasAndHigherOrderFunctions/PolymorphismKt$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinFunctions&amp;CustomTypes/lambdasAndHigherOrderFunctions/PolymorphismKt$main$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinFunctions&amp;CustomTypes/lambdasAndHigherOrderFunctions/PolymorphismKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions/polymorphism.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classInheritanceandInterfaces/polymorphism.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,26 +25,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/polymorphism.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="172">
               <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt">
+        <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/constructorsandInit.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+            <state relative-caret-position="337">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/constructorsandInit.kt">
+        <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeClass.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-128">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="232">
+              <caret line="83" column="54" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/customAccessors.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -89,6 +93,8 @@
         <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/polymorphism.kt" />
         <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt" />
         <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/constructorsandInit.kt" />
+        <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/PetImpl.kt" />
+        <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeClass.kt" />
       </list>
     </option>
   </component>
@@ -129,6 +135,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lambdasAndHigherOrderFunctions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KotlinFunctions&amp;CustomTypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinFunctions&amp;CustomTypes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="propertiesandMethods" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -155,6 +167,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Kotlin" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="classInheritanceandInterfaces" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/classInheritanceandInterfaces" />
       <recent name="$PROJECT_DIR$/src/lambdasAndHigherOrderFunctions" />
@@ -173,7 +188,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ConstructorsandInitKt">
+  <component name="RunManager" selected="Kotlin.ChallengeClassKt">
+    <configuration name="ChallengeClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFunctions&amp;CustomTypes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="classInheritanceandInterfaces.ChallengeClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChallengeOnMethodsandExtensionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
@@ -213,19 +241,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtensionPropertiesandMethodsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="KotlinFunctions&amp;CustomTypes" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="propertiesandMethods.ExtensionPropertiesandMethodsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PolymorphismKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
@@ -241,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ChallengeClassKt" />
         <item itemvalue="Kotlin.ConstructorsandInitKt" />
         <item itemvalue="Kotlin.PolymorphismKt" />
         <item itemvalue="Kotlin.ClassInheritanceandOverridingKt" />
         <item itemvalue="Kotlin.ChallengeOnMethodsandExtensionsKt" />
-        <item itemvalue="Kotlin.ExtensionPropertiesandMethodsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -274,12 +289,12 @@
       <workItem from="1591382995588" duration="3167000" />
       <workItem from="1591529860798" duration="6250000" />
       <workItem from="1591550506160" duration="511000" />
-      <workItem from="1591551049875" duration="3801000" />
+      <workItem from="1591551049875" duration="7898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63802000" />
+    <option name="totallyTimeSpent" value="67899000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,7 +318,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.7019544" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39739415" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39739415" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -403,13 +418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/customAccessors.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/challengeOnCustomAccessorsandCompanionObj.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -438,10 +446,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/polymorphism.kt">
+    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/customAccessors.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        <state relative-caret-position="330">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -452,10 +460,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/PetImpl.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/polymorphism.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/constructorsandInit.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-128">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="337">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="83" column="54" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
         </state>
       </provider>
     </entry>
