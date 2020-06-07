@@ -1,9 +1,4 @@
-package lambdasAndHigherOrderFunctions
-
-import classInheritanceandInterfaces.BandMember
-import classInheritanceandInterfaces.Person
-import classInheritanceandInterfaces.Student
-import classInheritanceandInterfaces.StudentAthlete
+package classInheritanceandInterfaces
 
 /**
  * A subclass can be treated as it own type, or as any of its super classes
