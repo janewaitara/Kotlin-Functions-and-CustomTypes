@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="440b50c6-052f-4639-994c-30e1945ef711" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classInheritanceandInterfaces/interfaces.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeonInterfaces.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/polymorphism.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
+            <state relative-caret-position="240">
               <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
             </state>
           </provider>
@@ -33,7 +34,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/constructorsandInit.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
+            <state relative-caret-position="435">
               <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
             </state>
           </provider>
@@ -42,17 +43,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeClass.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
+            <state relative-caret-position="1245">
               <caret line="83" column="54" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/interfaces.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+            <state relative-caret-position="-308">
+              <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeonInterfaces.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -104,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/PetImpl.kt" />
         <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeClass.kt" />
         <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/interfaces.kt" />
+        <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeonInterfaces.kt" />
       </list>
     </option>
   </component>
@@ -119,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -154,7 +166,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.InterfacesKt">
+  <component name="RunManager" selected="Kotlin.ChallengeonInterfacesKt">
     <configuration name="ChallengeClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
@@ -211,14 +222,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassInheritanceandOverridingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="ChallengeonInterfacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classInheritanceandInterfaces.ClassInheritanceandOverridingKt" />
+      <option name="MAIN_CLASS_NAME" value="classInheritanceandInterfaces.ChallengeonInterfacesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -265,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ChallengeonInterfacesKt" />
         <item itemvalue="Kotlin.InterfacesKt" />
         <item itemvalue="Kotlin.ChallengeClassKt" />
         <item itemvalue="Kotlin.ConstructorsandInitKt" />
         <item itemvalue="Kotlin.PolymorphismKt" />
-        <item itemvalue="Kotlin.ClassInheritanceandOverridingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -299,11 +310,12 @@
       <workItem from="1591529860798" duration="6250000" />
       <workItem from="1591550506160" duration="511000" />
       <workItem from="1591551049875" duration="9375000" />
+      <workItem from="1591561895791" duration="942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69376000" />
+    <option name="totallyTimeSpent" value="70318000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -318,7 +330,7 @@
     <frame x="41" y="25" width="1325" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23455825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23846756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -455,13 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/customAccessors.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -469,34 +474,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/PetImpl.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/PetImpl.kt" />
     <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/polymorphism.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
+        <state relative-caret-position="240">
           <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/constructorsandInit.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
+        <state relative-caret-position="435">
           <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeClass.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
+        <state relative-caret-position="1245">
           <caret line="83" column="54" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/customAccessors.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/interfaces.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        <state relative-caret-position="-308">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeonInterfaces.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
         </state>
       </provider>
     </entry>
