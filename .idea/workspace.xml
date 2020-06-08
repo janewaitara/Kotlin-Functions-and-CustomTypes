@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="440b50c6-052f-4639-994c-30e1945ef711" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/objectsEnumclassesAndSealedClasses/objects.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectsEnumclassesAndSealedClasses/enumClasses.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,17 +25,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            <state relative-caret-position="300">
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/objectsEnumclassesAndSealedClasses/objects.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/companionObjects.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <folding>
+                <element signature="e#30#106#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/objectsEnumclassesAndSealedClasses/objects.kt">
+        <entry file="file://$PROJECT_DIR$/src/objectsEnumclassesAndSealedClasses/enumClasses.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+            <state relative-caret-position="228">
+              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -81,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/challengeonInterfaces.kt" />
         <option value="$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt" />
         <option value="$PROJECT_DIR$/src/objectsEnumclassesAndSealedClasses/objects.kt" />
+        <option value="$PROJECT_DIR$/src/objectsEnumclassesAndSealedClasses/enumClasses.kt" />
       </list>
     </option>
   </component>
@@ -96,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -114,12 +134,13 @@
               <item name="KotlinFunctions&amp;CustomTypes" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinFunctions&amp;CustomTypes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="objectsEnumclassesAndSealedClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="propertiesandMethods" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ObjectsKt">
+  <component name="RunManager" selected="Kotlin.EnumClassesKt">
     <configuration name="ChallengeClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
@@ -189,14 +210,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorsandInitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="EnumClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinFunctions&amp;CustomTypes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classInheritanceandInterfaces.ConstructorsandInitKt" />
+      <option name="MAIN_CLASS_NAME" value="objectsEnumclassesAndSealedClasses.EnumClassesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -230,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EnumClassesKt" />
         <item itemvalue="Kotlin.ObjectsKt" />
         <item itemvalue="Kotlin.ChallengeonInterfacesKt" />
         <item itemvalue="Kotlin.InterfacesKt" />
         <item itemvalue="Kotlin.ChallengeClassKt" />
-        <item itemvalue="Kotlin.ConstructorsandInitKt" />
       </list>
     </recent_temporary>
   </component>
@@ -264,12 +285,13 @@
       <workItem from="1591529860798" duration="6250000" />
       <workItem from="1591550506160" duration="511000" />
       <workItem from="1591551049875" duration="9375000" />
-      <workItem from="1591561895791" duration="3976000" />
+      <workItem from="1591561895791" duration="4633000" />
+      <workItem from="1591573749616" duration="1215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73352000" />
+    <option name="totallyTimeSpent" value="75224000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -284,7 +306,7 @@
     <frame x="41" y="25" width="1325" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23846756" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24237686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -293,7 +315,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.7019544" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39739415" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39739415" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,16 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/companionObjects.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-263">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          <folding>
-            <element signature="e#30#106#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -469,15 +481,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classInheritanceandInterfaces/classInheritanceandOverriding.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        <state relative-caret-position="300">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/objectsEnumclassesAndSealedClasses/objects.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/propertiesandMethods/companionObjects.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="e#30#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/objectsEnumclassesAndSealedClasses/enumClasses.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
         </state>
       </provider>
     </entry>
