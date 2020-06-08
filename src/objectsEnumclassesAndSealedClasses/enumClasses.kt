@@ -30,7 +30,29 @@ fun main() {
         println("Day ${day.ordinal}: ${day.name} is weekend: ${day.isWeekend}")
     }
 
+    println()
+
     val friday = DayOfWeek.Friday
-    println(DayOfWeek.Sunday.daysUntil(friday))
+    println("There are ${DayOfWeek.Sunday.daysUntil(friday)} days until ${friday.name}")
+
+    println()
+
+    //enum with when statements
+    fun singAboutToday(today: DayOfWeek) {
+        when (today) {
+            DayOfWeek.Tuesday -> println("$today is gray ")
+            DayOfWeek.Wednesday -> println("$today is purple ")
+            DayOfWeek.Thursday -> println("$today I don't care you ")
+            DayOfWeek.Friday -> println("$today I am in love")
+            DayOfWeek.Saturday -> println("$today, wait...")
+            DayOfWeek.Sunday -> println("$today always come too late ")
+            else -> println("I don't feel like singing")
+        }
+
+    }
+
+    for (day in DayOfWeek.values()) singAboutToday(day)
+
+
 
 }
