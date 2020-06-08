@@ -8,7 +8,6 @@ package objectsEnumclassesAndSealedClasses
  *          ordinal property for each case which returns the index of each cases from the list of declared cases
  *          name which takes the name of the case in coding and gives back the string of that name
  *
- *
  *can have methods also: companion or regular
  * */
 

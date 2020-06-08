@@ -21,8 +21,12 @@ fun main() {
         print("$it \t")
     }
     println()
+    println()
 
     prices.forEach(::println)
+
+    println()
+    println()
 
     val salePrices = mutableListOf<Double>()
     for (price in prices){

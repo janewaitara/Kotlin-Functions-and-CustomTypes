@@ -2,8 +2,8 @@ package classInheritanceandInterfaces
 
 
 /**
- * Define a common set of properties and behavioursbut dont need an implimentation
- * for every vehicle, it ca accelerate
+ * Define a common set of properties and behaviours but dont need an implementation
+ * for every vehicle, it accelerate
  *
  * How to use it:
  *     Implementing it

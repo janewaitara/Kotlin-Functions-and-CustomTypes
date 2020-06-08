@@ -3,7 +3,7 @@ import kotlin.math.atan
 import kotlin.properties.Delegates
 
 /*
-* May want to observe when a property changes - use delegated property which has by keyWorld
+* May want to observe when a property changes - use delegated property which has by key word
 * can not have custom accessors
 * */
 
@@ -70,7 +70,7 @@ fun main() {
     val lightBulb1 = LightBulb()
     lightBulb1.current = 9000
     println("The maximum current is ${lightBulb1.current}")
-    lightBulb1.current = 30
+    lightBulb1.current = 20
     println("The maximum current is ${lightBulb1.current}")
 
     val circle = Circle(5.0)

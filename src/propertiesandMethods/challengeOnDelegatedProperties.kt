@@ -38,16 +38,12 @@ class SpaceCar(
     val color: String,
     val battery: SpaceBattery = SpaceBattery()
 )
-
 class SpaceBattery {
 
     var lowCharge = true
     var level: Double by Delegates.observable(0.0) { _, _, new ->
        lowCharge = new < 0.1
     }
-
-
-
 }
 
 fun main() {

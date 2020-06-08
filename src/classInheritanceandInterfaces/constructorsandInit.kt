@@ -40,7 +40,7 @@ fun main() {
     val ted = BandMember2("Ted","Precious",7)
     val honor = BandMember2("Honor","John")
 
-    bill.recordGrade(Grade(courseName = "Ted",letter ='A',credits = 2.5))
+    bill.recordGrade(Grade(courseName = "Ted",letter ='F',credits = 2.5))
     bill.recordGrade(Grade(courseName = "Maths",letter ='A',credits = 2.5))
 
     val transferBill = BandMember2(bill)

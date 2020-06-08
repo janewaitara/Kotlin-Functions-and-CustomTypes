@@ -4,7 +4,7 @@ package objectsEnumclassesAndSealedClasses
  * Object keywords lets you define a type that has a single instance (named object)
  * Can have properties and member function
  * Can not have constructors
- * Can inherit from classes and implement interfaces4
+ * Can inherit from classes and implement interfaces
  * Properties of the object must be initialized before use,either at declaration or in an init block
  *
  * Why use them:

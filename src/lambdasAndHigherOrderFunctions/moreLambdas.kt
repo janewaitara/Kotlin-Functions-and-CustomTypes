@@ -16,6 +16,8 @@ fun main() {
     )
     println(lotsOfDwarves)
 
+    val allDwarves = lotsOfDwarves.flatMap { dwarves-> dwarves }
+
         //flattening two lists into one list
     val(beforeM,afterM) = lotsOfDwarves.flatMap { dwarves ->
         dwarves.filter { it.length > 3 } //returns element that meets that condition
@@ -26,6 +28,8 @@ fun main() {
 
     println(groupedBeforeM)
     println(afterM)
+
+    println(allDwarves)
 
 
 }
