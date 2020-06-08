@@ -2,6 +2,7 @@ package objectsEnumclassesAndSealedClasses
 
 /**
  * Need to deal with clear cases of something where the value can only be one of the very limited number of potential values
+ *each case is a single instance of the class
  *
  * enum classes have a values companion function which gives you a list of all declared cases in the class
  *          ordinal property for each case which returns the index of each cases from the list of declared cases
@@ -10,6 +11,7 @@ package objectsEnumclassesAndSealedClasses
  *
  *can have methods also: companion or regular
  * */
+
 
 enum class DayOfWeek(val isWeekend: Boolean = false){
     Monday, Tuesday, Wednesday, Thursday, Friday, Saturday(true), Sunday(true);
